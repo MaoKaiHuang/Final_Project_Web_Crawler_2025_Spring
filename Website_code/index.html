@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <title>悲情城市｜Letterboxd 資料展示</title>
+    <style>
+    body {
+        font-family: sans-serif;
+        padding: 20px;
+    }
+
+    .movie,
+    .review {
+        margin-bottom: 20px;
+    }
+
+    .review {
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 10px;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>🎬 悲情城市 - Letterboxd 爬蟲資料</h1>
+    <div class="movie"></div>
+    <h2>📝 最新評論</h2>
+    <div class="reviews"></div>
+    <script>
+    fetch('movie_info.json')
+        .then(res => res.json())
+        .then(data => {
+            const movie = data[0];
+            document.querySelector('.movie').innerHTML = `
+          <h2>${movie["電影標題"]} (${movie["上映年份"]})</h2>
+          <p>${movie["電影描述"]}</p>
+          <p>⭐ 平均評分：${movie["平均評分"]}（${movie["評分總數"]}人）</p>
+          <img src="${movie["海報圖片"]}" alt="Poster" width="200">
+        `;
+        });
+
+    fetch('reviews.json')
+        .then(res => res.json())
+        .then(data => {
+            const container = document.querySelector('.reviews');
+            data.forEach(r => {
+                container.innerHTML += `
+            <div class="review">
+              <strong>${r["Reviewer"]}</strong> ｜ ⭐ ${r["Rating"] || "未評分"} ｜ 👍 ${r["Likes"]} <br>
+              <small>${r["Date"]}</small>
+              <p>${r["Content"]}</p>
+            </div>`;
+            });
+        });
+    </script>
+</body>
+
+</html>
