@@ -1,0 +1,1531 @@
+2025-06-01 02:05:28,906 - WARNING -  * Debugger is active!
+2025-06-01 02:05:28,906 - WARNING -  * Debugger is active!
+2025-06-01 02:05:28,907 - WARNING -  * Debugger is active!
+2025-06-01 02:05:28,918 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:28,918 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:28,918 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:28,955 - WARNING -  * Debugger is active!
+2025-06-01 02:05:28,966 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:32,381 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,381 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,381 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,382 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,383 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,383 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,383 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,383 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:32,384 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:05:35,108 - WARNING -  * Debugger is active!
+2025-06-01 02:05:35,112 - WARNING -  * Debugger is active!
+2025-06-01 02:05:35,117 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:35,122 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:35,135 - WARNING -  * Debugger is active!
+2025-06-01 02:05:35,136 - WARNING -  * Debugger is active!
+2025-06-01 02:05:35,145 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:35,146 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:05:50,613 - INFO - 127.0.0.1 - - [01/Jun/2025 02:05:50] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:06:52,932 - INFO - 127.0.0.1 - - [01/Jun/2025 02:06:52] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:08:06,534 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\posixpath.py', reloading
+2025-06-01 02:08:06,534 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\posixpath.py', reloading
+2025-06-01 02:08:06,534 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\posixpath.py', reloading
+2025-06-01 02:08:06,534 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\posixpath.py', reloading
+2025-06-01 02:08:08,618 - WARNING -  * Debugger is active!
+2025-06-01 02:08:08,625 - WARNING -  * Debugger is active!
+2025-06-01 02:08:08,627 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:08:08,635 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:08:08,691 - WARNING -  * Debugger is active!
+2025-06-01 02:08:08,701 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:08:08,925 - WARNING -  * Debugger is active!
+2025-06-01 02:08:08,933 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:09:03,729 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,729 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,730 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,730 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,730 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,731 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,731 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,731 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:03,731 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:09:05,505 - WARNING -  * Debugger is active!
+2025-06-01 02:09:05,513 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:09:05,753 - WARNING -  * Debugger is active!
+2025-06-01 02:09:05,762 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:09:06,234 - WARNING -  * Debugger is active!
+2025-06-01 02:09:06,240 - WARNING -  * Debugger is active!
+2025-06-01 02:09:06,242 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:09:06,247 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:09:30,245 - INFO - 127.0.0.1 - - [01/Jun/2025 02:09:30] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:09:30,509 - INFO - 127.0.0.1 - - [01/Jun/2025 02:09:30] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:10:10,757 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:10,758 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:10,758 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:10,758 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:10,759 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:10,759 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:10,759 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:10:12,975 - WARNING -  * Debugger is active!
+2025-06-01 02:10:12,987 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:10:13,253 - WARNING -  * Debugger is active!
+2025-06-01 02:10:13,263 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:10:13,808 - WARNING -  * Debugger is active!
+2025-06-01 02:10:13,820 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:10:13,829 - WARNING -  * Debugger is active!
+2025-06-01 02:10:13,842 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:10:21,597 - INFO - 127.0.0.1 - - [01/Jun/2025 02:10:21] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:11:30,353 - INFO - 127.0.0.1 - - [01/Jun/2025 02:11:30] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:11:32,679 - INFO - 127.0.0.1 - - [01/Jun/2025 02:11:32] "[33mGET /movie/¤éÄR HTTP/1.1[0m" 404 -
+2025-06-01 02:12:57,408 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:57,420 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:57,420 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:57,420 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:57,421 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:57,421 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:57,421 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:12:59,505 - WARNING -  * Debugger is active!
+2025-06-01 02:12:59,512 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:12:59,512 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:12:59,513 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:12:59,896 - WARNING -  * Debugger is active!
+2025-06-01 02:12:59,903 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:13:09,159 - INFO - 127.0.0.1 - - [01/Jun/2025 02:13:09] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:13:09,424 - INFO - 127.0.0.1 - - [01/Jun/2025 02:13:09] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:13:12,056 - INFO - 127.0.0.1 - - [01/Jun/2025 02:13:12] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:13:38,664 - INFO - 127.0.0.1 - - [01/Jun/2025 02:13:38] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:13:38,930 - INFO - 127.0.0.1 - - [01/Jun/2025 02:13:38] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:13:40,964 - INFO - 127.0.0.1 - - [01/Jun/2025 02:13:40] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:14:15,947 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:15,947 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:15,947 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:15,959 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:15,959 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:15,960 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:15,960 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:17,861 - WARNING -  * Debugger is active!
+2025-06-01 02:14:17,872 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:18,233 - WARNING -  * Debugger is active!
+2025-06-01 02:14:18,242 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:18,372 - WARNING -  * Debugger is active!
+2025-06-01 02:14:18,376 - WARNING -  * Debugger is active!
+2025-06-01 02:14:18,379 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:18,383 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:20,983 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,983 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,983 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,984 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,984 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,984 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,985 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,985 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,985 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,985 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,985 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:20,986 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:14:22,806 - WARNING -  * Debugger is active!
+2025-06-01 02:14:22,813 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:23,175 - WARNING -  * Debugger is active!
+2025-06-01 02:14:23,183 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:23,358 - WARNING -  * Debugger is active!
+2025-06-01 02:14:23,365 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:23,366 - WARNING -  * Debugger is active!
+2025-06-01 02:14:23,373 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:14:33,820 - INFO - 127.0.0.1 - - [01/Jun/2025 02:14:33] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:14:34,083 - INFO - 127.0.0.1 - - [01/Jun/2025 02:14:34] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:14:36,113 - INFO - 127.0.0.1 - - [01/Jun/2025 02:14:36] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:15:38,715 - INFO - 127.0.0.1 - - [01/Jun/2025 02:15:38] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:16:56,696 - INFO - 127.0.0.1 - - [01/Jun/2025 02:16:56] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:16:59,029 - INFO - 127.0.0.1 - - [01/Jun/2025 02:16:59] "GET /movie/«C¬K¥½¥@ª«»y HTTP/1.1" 200 -
+2025-06-01 02:21:04,215 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:04,226 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:04,226 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:04,226 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:04,227 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:04,228 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:04,228 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 02:21:06,737 - WARNING -  * Debugger is active!
+2025-06-01 02:21:06,737 - WARNING -  * Debugger is active!
+2025-06-01 02:21:06,751 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:21:06,751 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:21:07,117 - WARNING -  * Debugger is active!
+2025-06-01 02:21:07,125 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:21:07,182 - WARNING -  * Debugger is active!
+2025-06-01 02:21:07,190 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:27:28,741 - INFO - 127.0.0.1 - - [01/Jun/2025 02:27:28] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:28:35,647 - INFO - 127.0.0.1 - - [01/Jun/2025 02:28:35] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:28:38,000 - INFO - 127.0.0.1 - - [01/Jun/2025 02:28:38] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:31:30,367 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit_base.py', reloading
+2025-06-01 02:31:30,368 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit_base.py', reloading
+2025-06-01 02:31:30,368 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit_base.py', reloading
+2025-06-01 02:31:30,368 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit_base.py', reloading
+2025-06-01 02:31:30,409 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2025-06-01 02:31:30,409 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2025-06-01 02:31:32,765 - WARNING -  * Debugger is active!
+2025-06-01 02:31:32,766 - WARNING -  * Debugger is active!
+2025-06-01 02:31:32,775 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:32,776 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:32,853 - WARNING -  * Debugger is active!
+2025-06-01 02:31:32,863 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:33,140 - WARNING -  * Debugger is active!
+2025-06-01 02:31:33,147 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:34,292 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,292 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,293 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,293 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,293 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,294 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,294 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,294 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,294 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,295 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:34,295 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:36,767 - WARNING -  * Debugger is active!
+2025-06-01 02:31:36,775 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:36,797 - WARNING -  * Debugger is active!
+2025-06-01 02:31:36,805 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:36,826 - WARNING -  * Debugger is active!
+2025-06-01 02:31:36,835 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:37,059 - WARNING -  * Debugger is active!
+2025-06-01 02:31:37,066 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:53,692 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:53,692 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:53,692 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:53,692 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:53,718 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:53,718 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:53,718 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:31:55,785 - WARNING -  * Debugger is active!
+2025-06-01 02:31:55,796 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:56,471 - WARNING -  * Debugger is active!
+2025-06-01 02:31:56,478 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:56,533 - WARNING -  * Debugger is active!
+2025-06-01 02:31:56,541 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:31:56,611 - WARNING -  * Debugger is active!
+2025-06-01 02:31:56,618 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:32:03,034 - INFO - 127.0.0.1 - - [01/Jun/2025 02:32:03] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:32:03,298 - INFO - 127.0.0.1 - - [01/Jun/2025 02:32:03] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:32:03,366 - INFO - 127.0.0.1 - - [01/Jun/2025 02:32:03] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:32:17,136 - INFO - 127.0.0.1 - - [01/Jun/2025 02:32:17] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:32:17,457 - INFO - 127.0.0.1 - - [01/Jun/2025 02:32:17] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:32:17,713 - INFO - 127.0.0.1 - - [01/Jun/2025 02:32:17] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:33:54,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,008 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,009 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,009 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,009 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,010 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,011 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:54,011 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 02:33:55,816 - WARNING -  * Debugger is active!
+2025-06-01 02:33:55,823 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:33:55,963 - WARNING -  * Debugger is active!
+2025-06-01 02:33:55,970 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:33:55,977 - WARNING -  * Debugger is active!
+2025-06-01 02:33:55,986 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:33:56,748 - WARNING -  * Debugger is active!
+2025-06-01 02:33:56,756 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 02:34:02,317 - INFO - 127.0.0.1 - - [01/Jun/2025 02:34:02] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:34:02,569 - INFO - 127.0.0.1 - - [01/Jun/2025 02:34:02] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:34:02,645 - INFO - 127.0.0.1 - - [01/Jun/2025 02:34:02] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:35:53,062 - INFO - 127.0.0.1 - - [01/Jun/2025 02:35:53] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:35:53,329 - INFO - 127.0.0.1 - - [01/Jun/2025 02:35:53] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:35:53,384 - INFO - 127.0.0.1 - - [01/Jun/2025 02:35:53] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:38:40,384 - INFO - 127.0.0.1 - - [01/Jun/2025 02:38:40] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:38:40,651 - INFO - 127.0.0.1 - - [01/Jun/2025 02:38:40] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:38:40,704 - INFO - 127.0.0.1 - - [01/Jun/2025 02:38:40] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:40:41,817 - INFO - 127.0.0.1 - - [01/Jun/2025 02:40:41] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:40:42,086 - INFO - 127.0.0.1 - - [01/Jun/2025 02:40:42] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:40:42,137 - INFO - 127.0.0.1 - - [01/Jun/2025 02:40:42] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:43:14,735 - INFO - 127.0.0.1 - - [01/Jun/2025 02:43:14] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:43:15,003 - INFO - 127.0.0.1 - - [01/Jun/2025 02:43:15] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:43:15,059 - INFO - 127.0.0.1 - - [01/Jun/2025 02:43:15] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:43:31,105 - INFO - 127.0.0.1 - - [01/Jun/2025 02:43:31] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:43:31,416 - INFO - 127.0.0.1 - - [01/Jun/2025 02:43:31] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:43:31,687 - INFO - 127.0.0.1 - - [01/Jun/2025 02:43:31] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:47:29,731 - INFO - 127.0.0.1 - - [01/Jun/2025 02:47:29] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:47:29,980 - INFO - 127.0.0.1 - - [01/Jun/2025 02:47:29] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:47:30,051 - INFO - 127.0.0.1 - - [01/Jun/2025 02:47:30] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:53:28,475 - INFO - 127.0.0.1 - - [01/Jun/2025 02:53:28] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:53:28,741 - INFO - 127.0.0.1 - - [01/Jun/2025 02:53:28] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:53:28,795 - INFO - 127.0.0.1 - - [01/Jun/2025 02:53:28] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:53:54,271 - INFO - 127.0.0.1 - - [01/Jun/2025 02:53:54] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:53:54,579 - INFO - 127.0.0.1 - - [01/Jun/2025 02:53:54] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:53:54,855 - INFO - 127.0.0.1 - - [01/Jun/2025 02:53:54] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:56:43,665 - INFO - 127.0.0.1 - - [01/Jun/2025 02:56:43] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:56:43,933 - INFO - 127.0.0.1 - - [01/Jun/2025 02:56:43] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:56:43,989 - INFO - 127.0.0.1 - - [01/Jun/2025 02:56:43] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 02:57:03,183 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:03] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:57:03,496 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:03] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:57:03,772 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:03] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 02:57:11,911 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:11] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:57:12,220 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:12] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:57:12,503 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:12] "GET /movie/¤K¦Ê§§¤h HTTP/1.1" 200 -
+2025-06-01 02:57:32,461 - INFO - 127.0.0.1 - - [01/Jun/2025 02:57:32] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 02:58:36,778 - INFO - 127.0.0.1 - - [01/Jun/2025 02:58:36] "POST /search HTTP/1.1" 200 -
+2025-06-01 02:58:37,120 - INFO - 127.0.0.1 - - [01/Jun/2025 02:58:37] "GET /movie/¥x¥_ª«»y HTTP/1.1" 200 -
+2025-06-01 03:13:16,226 - INFO - 127.0.0.1 - - [01/Jun/2025 03:13:16] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:13:16,494 - INFO - 127.0.0.1 - - [01/Jun/2025 03:13:16] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:13:16,553 - INFO - 127.0.0.1 - - [01/Jun/2025 03:13:16] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 03:13:58,408 - INFO - 127.0.0.1 - - [01/Jun/2025 03:13:58] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:13:58,717 - INFO - 127.0.0.1 - - [01/Jun/2025 03:13:58] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:13:58,990 - INFO - 127.0.0.1 - - [01/Jun/2025 03:13:58] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 03:15:00,499 - INFO - 127.0.0.1 - - [01/Jun/2025 03:15:00] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:15:00,765 - INFO - 127.0.0.1 - - [01/Jun/2025 03:15:00] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:15:00,818 - INFO - 127.0.0.1 - - [01/Jun/2025 03:15:00] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 03:15:32,967 - INFO - 127.0.0.1 - - [01/Jun/2025 03:15:32] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:15:33,287 - INFO - 127.0.0.1 - - [01/Jun/2025 03:15:33] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:15:33,542 - INFO - 127.0.0.1 - - [01/Jun/2025 03:15:33] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 03:17:27,303 - INFO - 127.0.0.1 - - [01/Jun/2025 03:17:27] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:17:27,569 - INFO - 127.0.0.1 - - [01/Jun/2025 03:17:27] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:17:27,625 - INFO - 127.0.0.1 - - [01/Jun/2025 03:17:27] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 03:18:16,470 - INFO - 127.0.0.1 - - [01/Jun/2025 03:18:16] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:18:16,797 - INFO - 127.0.0.1 - - [01/Jun/2025 03:18:16] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:18:17,056 - INFO - 127.0.0.1 - - [01/Jun/2025 03:18:17] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 03:21:46,161 - INFO - 127.0.0.1 - - [01/Jun/2025 03:21:46] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:21:46,413 - INFO - 127.0.0.1 - - [01/Jun/2025 03:21:46] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:21:46,485 - INFO - 127.0.0.1 - - [01/Jun/2025 03:21:46] "GET /movie/¶Â½c¤é°O HTTP/1.1" 200 -
+2025-06-01 03:23:24,697 - INFO - 127.0.0.1 - - [01/Jun/2025 03:23:24] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:23:25,084 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:23:25,084 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:23:25,084 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:23:25,085 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:23:27,183 - WARNING -  * Debugger is active!
+2025-06-01 03:23:27,196 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:23:27,198 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:23:27,312 - WARNING -  * Debugger is active!
+2025-06-01 03:23:27,320 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:23:27,563 - WARNING -  * Debugger is active!
+2025-06-01 03:23:27,570 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:23:39,122 - INFO - 127.0.0.1 - - [01/Jun/2025 03:23:39] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:24:44,339 - INFO - 127.0.0.1 - - [01/Jun/2025 03:24:44] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:24:44,696 - INFO - 127.0.0.1 - - [01/Jun/2025 03:24:44] "GET /movie/¤÷«á¤C¤é HTTP/1.1" 200 -
+2025-06-01 03:33:52,227 - INFO - 127.0.0.1 - - [01/Jun/2025 03:33:52] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:33:52,495 - INFO - 127.0.0.1 - - [01/Jun/2025 03:33:52] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:33:52,553 - INFO - 127.0.0.1 - - [01/Jun/2025 03:33:52] "GET /movie/¤éÄR HTTP/1.1" 200 -
+2025-06-01 03:35:25,712 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 03:35:25,712 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 03:35:27,719 - WARNING -  * Debugger is active!
+2025-06-01 03:35:27,732 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:35:28,382 - WARNING -  * Debugger is active!
+2025-06-01 03:35:28,392 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:35:28,493 - WARNING -  * Debugger is active!
+2025-06-01 03:35:28,502 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:35:28,580 - WARNING -  * Debugger is active!
+2025-06-01 03:35:28,588 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:25,961 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\random.py', reloading
+2025-06-01 03:50:25,962 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\random.py', reloading
+2025-06-01 03:50:25,962 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\random.py', reloading
+2025-06-01 03:50:26,020 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\datetime.py', reloading
+2025-06-01 03:50:26,020 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\datetime.py', reloading
+2025-06-01 03:50:26,020 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\datetime.py', reloading
+2025-06-01 03:50:26,052 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\_pydatetime.py', reloading
+2025-06-01 03:50:26,052 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\_pydatetime.py', reloading
+2025-06-01 03:50:26,052 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\_pydatetime.py', reloading
+2025-06-01 03:50:28,081 - WARNING -  * Debugger is active!
+2025-06-01 03:50:28,082 - WARNING -  * Debugger is active!
+2025-06-01 03:50:28,091 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:28,092 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:28,266 - WARNING -  * Debugger is active!
+2025-06-01 03:50:28,274 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:28,668 - WARNING -  * Debugger is active!
+2025-06-01 03:50:28,675 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:37,233 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:37,233 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:37,233 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:37,234 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:37,234 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:37,234 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:37,235 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:50:39,464 - WARNING -  * Debugger is active!
+2025-06-01 03:50:39,475 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:39,509 - WARNING -  * Debugger is active!
+2025-06-01 03:50:39,517 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:39,605 - WARNING -  * Debugger is active!
+2025-06-01 03:50:39,614 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:50:39,992 - WARNING -  * Debugger is active!
+2025-06-01 03:50:39,999 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:51:47,425 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,426 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,426 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,436 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,437 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,437 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,437 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,438 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:47,439 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:51:49,552 - WARNING -  * Debugger is active!
+2025-06-01 03:51:49,563 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:51:49,956 - WARNING -  * Debugger is active!
+2025-06-01 03:51:49,963 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:51:50,232 - WARNING -  * Debugger is active!
+2025-06-01 03:51:50,242 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:51:50,243 - WARNING -  * Debugger is active!
+2025-06-01 03:51:50,255 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:52:05,256 - INFO - 127.0.0.1 - - [01/Jun/2025 03:52:05] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:52:05,522 - INFO - 127.0.0.1 - - [01/Jun/2025 03:52:05] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:54:19,449 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:54:19,449 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:54:19,450 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:54:19,451 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:54:19,451 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 03:54:21,558 - WARNING -  * Debugger is active!
+2025-06-01 03:54:21,567 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:54:21,947 - WARNING -  * Debugger is active!
+2025-06-01 03:54:21,955 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:54:22,009 - WARNING -  * Debugger is active!
+2025-06-01 03:54:22,017 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:54:22,148 - WARNING -  * Debugger is active!
+2025-06-01 03:54:22,157 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:54:43,627 - INFO - 127.0.0.1 - - [01/Jun/2025 03:54:43] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:54:43,875 - INFO - 127.0.0.1 - - [01/Jun/2025 03:54:43] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:56:29,620 - INFO - 127.0.0.1 - - [01/Jun/2025 03:56:29] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:56:29,884 - INFO - 127.0.0.1 - - [01/Jun/2025 03:56:29] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:57:11,565 - INFO - 127.0.0.1 - - [01/Jun/2025 03:57:11] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 03:57:14,915 - INFO - 127.0.0.1 - - [01/Jun/2025 03:57:14] "POST /search HTTP/1.1" 200 -
+2025-06-01 03:58:57,475 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\__init__.py', reloading
+2025-06-01 03:58:57,475 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\__init__.py', reloading
+2025-06-01 03:58:57,475 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\__init__.py', reloading
+2025-06-01 03:58:57,476 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\__init__.py', reloading
+2025-06-01 03:58:57,476 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\__init__.py', reloading
+2025-06-01 03:58:57,476 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\__init__.py', reloading
+2025-06-01 03:58:57,477 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,477 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,477 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,478 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,478 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,479 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,479 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,479 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,479 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,480 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers.py', reloading
+2025-06-01 03:58:57,488 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,488 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,488 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,489 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,489 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,489 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,489 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,490 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,490 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,490 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\_helpers_py.py', reloading
+2025-06-01 03:58:57,491 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,491 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,492 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,492 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,493 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,493 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,493 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\propcache\\api.py', reloading
+2025-06-01 03:58:57,614 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\__init__.py', reloading
+2025-06-01 03:58:57,615 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\__init__.py', reloading
+2025-06-01 03:58:57,615 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\__init__.py', reloading
+2025-06-01 03:58:57,617 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_abc.py', reloading
+2025-06-01 03:58:57,617 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_abc.py', reloading
+2025-06-01 03:58:57,618 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_abc.py', reloading
+2025-06-01 03:58:57,618 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_abc.py', reloading
+2025-06-01 03:58:57,619 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,619 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,620 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,620 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,620 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,621 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,621 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,621 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,622 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_compat.py', reloading
+2025-06-01 03:58:57,624 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,625 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,625 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,626 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,626 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,626 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,627 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,627 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,627 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\multidict\\_multidict_py.py', reloading
+2025-06-01 03:58:57,758 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\frozenlist\\__init__.py', reloading
+2025-06-01 03:58:57,758 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\frozenlist\\__init__.py', reloading
+2025-06-01 03:58:57,759 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\frozenlist\\__init__.py', reloading
+2025-06-01 03:58:57,822 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\__init__.py', reloading
+2025-06-01 03:58:57,822 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\__init__.py', reloading
+2025-06-01 03:58:57,824 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\_staggered.py', reloading
+2025-06-01 03:58:57,824 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\_staggered.py', reloading
+2025-06-01 03:58:57,825 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\impl.py', reloading
+2025-06-01 03:58:57,826 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\impl.py', reloading
+2025-06-01 03:58:57,828 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\types.py', reloading
+2025-06-01 03:58:57,829 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\types.py', reloading
+2025-06-01 03:58:57,830 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\utils.py', reloading
+2025-06-01 03:58:57,831 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\aiohappyeyeballs\\utils.py', reloading
+2025-06-01 03:58:59,411 - WARNING -  * Debugger is active!
+2025-06-01 03:58:59,420 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:58:59,509 - WARNING -  * Debugger is active!
+2025-06-01 03:58:59,516 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:58:59,594 - WARNING -  * Debugger is active!
+2025-06-01 03:58:59,601 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:58:59,759 - WARNING -  * Debugger is active!
+2025-06-01 03:58:59,766 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:05,373 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:05,373 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:05,373 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:05,374 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:05,400 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:05,400 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:05,400 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:05,485 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:05,486 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:05,508 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\events.py', reloading
+2025-06-01 03:59:05,508 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\events.py', reloading
+2025-06-01 03:59:05,508 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\events.py', reloading
+2025-06-01 03:59:05,509 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\events.py', reloading
+2025-06-01 03:59:05,553 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\exceptions.py', reloading
+2025-06-01 03:59:05,553 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\exceptions.py', reloading
+2025-06-01 03:59:05,579 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\futures.py', reloading
+2025-06-01 03:59:05,611 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\locks.py', reloading
+2025-06-01 03:59:05,611 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\locks.py', reloading
+2025-06-01 03:59:05,611 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\locks.py', reloading
+2025-06-01 03:59:05,646 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:05,646 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:05,646 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:05,680 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\runners.py', reloading
+2025-06-01 03:59:05,680 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\runners.py', reloading
+2025-06-01 03:59:05,705 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\queues.py', reloading
+2025-06-01 03:59:05,705 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\queues.py', reloading
+2025-06-01 03:59:05,705 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\queues.py', reloading
+2025-06-01 03:59:05,744 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\streams.py', reloading
+2025-06-01 03:59:05,744 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\streams.py', reloading
+2025-06-01 03:59:05,744 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\streams.py', reloading
+2025-06-01 03:59:05,781 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:05,781 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:05,781 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:05,809 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:05,809 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:05,845 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\taskgroups.py', reloading
+2025-06-01 03:59:05,845 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\taskgroups.py', reloading
+2025-06-01 03:59:05,867 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\timeouts.py', reloading
+2025-06-01 03:59:05,867 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\timeouts.py', reloading
+2025-06-01 03:59:05,888 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\threads.py', reloading
+2025-06-01 03:59:05,917 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\transports.py', reloading
+2025-06-01 03:59:05,918 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\transports.py', reloading
+2025-06-01 03:59:05,950 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:08,073 - WARNING -  * Debugger is active!
+2025-06-01 03:59:08,085 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:08,204 - WARNING -  * Debugger is active!
+2025-06-01 03:59:08,214 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:08,215 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit_base.py', reloading
+2025-06-01 03:59:08,227 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2025-06-01 03:59:08,246 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\utils.py', reloading
+2025-06-01 03:59:08,274 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\_internal.py', reloading
+2025-06-01 03:59:08,289 - WARNING -  * Debugger is active!
+2025-06-01 03:59:08,302 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:08,434 - WARNING -  * Debugger is active!
+2025-06-01 03:59:08,441 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:08,860 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\service.py', reloading
+2025-06-01 03:59:08,861 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\service.py', reloading
+2025-06-01 03:59:08,861 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\service.py', reloading
+2025-06-01 03:59:08,862 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\service.py', reloading
+2025-06-01 03:59:08,878 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\service.py', reloading
+2025-06-01 03:59:08,878 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\service.py', reloading
+2025-06-01 03:59:08,884 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\service.py', reloading
+2025-06-01 03:59:08,884 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\service.py', reloading
+2025-06-01 03:59:08,889 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\__init__.py', reloading
+2025-06-01 03:59:08,890 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\__init__.py', reloading
+2025-06-01 03:59:08,890 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\__init__.py', reloading
+2025-06-01 03:59:08,904 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\re\\__init__.py', reloading
+2025-06-01 03:59:08,904 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\re\\__init__.py', reloading
+2025-06-01 03:59:08,905 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\re\\__init__.py', reloading
+2025-06-01 03:59:08,916 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\csv.py', reloading
+2025-06-01 03:59:08,916 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\csv.py', reloading
+2025-06-01 03:59:08,930 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\__init__.py', reloading
+2025-06-01 03:59:08,953 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\element.py', reloading
+2025-06-01 03:59:08,953 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\element.py', reloading
+2025-06-01 03:59:09,000 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\__init__.py', reloading
+2025-06-01 03:59:09,003 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\by.py', reloading
+2025-06-01 03:59:09,003 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\by.py', reloading
+2025-06-01 03:59:09,006 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\__init__.py', reloading
+2025-06-01 03:59:09,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\__init__.py', reloading
+2025-06-01 03:59:09,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\__init__.py', reloading
+2025-06-01 03:59:09,011 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+2025-06-01 03:59:09,012 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+2025-06-01 03:59:09,012 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+2025-06-01 03:59:09,012 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+2025-06-01 03:59:09,016 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+2025-06-01 03:59:09,017 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+2025-06-01 03:59:09,017 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+2025-06-01 03:59:09,017 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+2025-06-01 03:59:09,024 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\options.py', reloading
+2025-06-01 03:59:09,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\ui.py', reloading
+2025-06-01 03:59:09,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\ui.py', reloading
+2025-06-01 03:59:09,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\ui.py', reloading
+2025-06-01 03:59:09,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\wait.py', reloading
+2025-06-01 03:59:09,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\wait.py', reloading
+2025-06-01 03:59:09,041 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\remote\\webdriver.py', reloading
+2025-06-01 03:59:09,041 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\remote\\webdriver.py', reloading
+2025-06-01 03:59:09,112 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\remote\\webelement.py', reloading
+2025-06-01 03:59:09,112 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\remote\\webelement.py', reloading
+2025-06-01 03:59:09,112 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\remote\\webelement.py', reloading
+2025-06-01 03:59:09,129 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\__init__.py', reloading
+2025-06-01 03:59:09,129 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\__init__.py', reloading
+2025-06-01 03:59:09,129 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\__init__.py', reloading
+2025-06-01 03:59:09,133 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+2025-06-01 03:59:09,133 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+2025-06-01 03:59:09,134 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+2025-06-01 03:59:09,134 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+2025-06-01 03:59:09,153 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\chrome.py', reloading
+2025-06-01 03:59:09,153 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\chrome.py', reloading
+2025-06-01 03:59:09,154 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\chrome.py', reloading
+2025-06-01 03:59:09,154 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\chrome.py', reloading
+2025-06-01 03:59:09,165 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\manager.py', reloading
+2025-06-01 03:59:09,165 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\manager.py', reloading
+2025-06-01 03:59:09,165 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\manager.py', reloading
+2025-06-01 03:59:09,166 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\manager.py', reloading
+2025-06-01 03:59:09,436 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\types.py', reloading
+2025-06-01 03:59:09,446 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\_typing.py', reloading
+2025-06-01 03:59:09,446 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\_typing.py', reloading
+2025-06-01 03:59:09,455 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\builder\\__init__.py', reloading
+2025-06-01 03:59:09,456 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\builder\\__init__.py', reloading
+2025-06-01 03:59:09,471 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\filter.py', reloading
+2025-06-01 03:59:09,498 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py', reloading
+2025-06-01 03:59:09,503 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\chromium\\webdriver.py', reloading
+2025-06-01 03:59:09,526 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\timeouts.py', reloading
+2025-06-01 03:59:09,533 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\remote\\file_detector.py', reloading
+2025-06-01 03:59:09,538 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\selenium\\webdriver\\common\\virtual_authenticator.py', reloading
+2025-06-01 03:59:09,550 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\os_manager.py', reloading
+2025-06-01 03:59:09,557 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\download_manager.py', reloading
+2025-06-01 03:59:09,564 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\webdriver_manager\\core\\driver_cache.py', reloading
+2025-06-01 03:59:09,595 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\bs4\\_deprecation.py', reloading
+2025-06-01 03:59:11,358 - WARNING -  * Debugger is active!
+2025-06-01 03:59:11,366 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:11,469 - WARNING -  * Debugger is active!
+2025-06-01 03:59:11,477 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:11,485 - WARNING -  * Debugger is active!
+2025-06-01 03:59:11,494 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:11,559 - INFO -  * Detected change in 'C:\\Program Files (x86)\\Eclipse\\Sumo\\tools\\simpla\\__init__.py', reloading
+2025-06-01 03:59:11,559 - INFO -  * Detected change in 'C:\\Program Files (x86)\\Eclipse\\Sumo\\tools\\sumolib\\__init__.py', reloading
+2025-06-01 03:59:11,560 - INFO -  * Detected change in 'C:\\Program Files (x86)\\Eclipse\\Sumo\\tools\\traci\\__init__.py', reloading
+2025-06-01 03:59:11,561 - INFO -  * Detected change in 'C:\\Program Files (x86)\\Eclipse\\Sumo\\tools\\webWizard\\__init__.py', reloading
+2025-06-01 03:59:11,562 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\__init__.py', reloading
+2025-06-01 03:59:11,563 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\idlelib\\__init__.py', reloading
+2025-06-01 03:59:11,564 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\test\\__init__.py', reloading
+2025-06-01 03:59:11,564 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\turtledemo\\__init__.py', reloading
+2025-06-01 03:59:11,565 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\wsgiref\\__init__.py', reloading
+2025-06-01 03:59:11,566 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\xmlrpc\\__init__.py', reloading
+2025-06-01 03:59:11,567 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\__phello__\\__init__.py', reloading
+2025-06-01 03:59:11,567 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\adodbapi\\__init__.py', reloading
+2025-06-01 03:59:11,574 - WARNING -  * Debugger is active!
+2025-06-01 03:59:11,582 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:12,031 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\click_plugins\\__init__.py', reloading
+2025-06-01 03:59:12,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\click_plugins\\__init__.py', reloading
+2025-06-01 03:59:12,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\cligj\\__init__.py', reloading
+2025-06-01 03:59:12,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\click_plugins\\__init__.py', reloading
+2025-06-01 03:59:12,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\click_plugins\\__init__.py', reloading
+2025-06-01 03:59:12,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\contextily\\__init__.py', reloading
+2025-06-01 03:59:12,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\cligj\\__init__.py', reloading
+2025-06-01 03:59:12,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\cligj\\__init__.py', reloading
+2025-06-01 03:59:12,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\cligj\\__init__.py', reloading
+2025-06-01 03:59:12,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\contextily\\__init__.py', reloading
+2025-06-01 03:59:12,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\et_xmlfile\\__init__.py', reloading
+2025-06-01 03:59:12,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\contextily\\__init__.py', reloading
+2025-06-01 03:59:12,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\et_xmlfile\\__init__.py', reloading
+2025-06-01 03:59:12,035 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\et_xmlfile\\__init__.py', reloading
+2025-06-01 03:59:12,056 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geodatasets\\__init__.py', reloading
+2025-06-01 03:59:12,056 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geodatasets\\__init__.py', reloading
+2025-06-01 03:59:12,056 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geographiclib\\__init__.py', reloading
+2025-06-01 03:59:12,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geographiclib\\__init__.py', reloading
+2025-06-01 03:59:12,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geographiclib\\__init__.py', reloading
+2025-06-01 03:59:12,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geopandas\\__init__.py', reloading
+2025-06-01 03:59:12,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geopandas\\__init__.py', reloading
+2025-06-01 03:59:12,058 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\geopandas\\__init__.py', reloading
+2025-06-01 03:59:12,059 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\__init__.py', reloading
+2025-06-01 03:59:12,059 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\__init__.py', reloading
+2025-06-01 03:59:12,059 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\jedi\\__init__.py', reloading
+2025-06-01 03:59:12,060 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\material\\__init__.py', reloading
+2025-06-01 03:59:12,060 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\material\\__init__.py', reloading
+2025-06-01 03:59:12,061 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\materialx\\__init__.py', reloading
+2025-06-01 03:59:12,061 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\materialx\\__init__.py', reloading
+2025-06-01 03:59:12,061 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\materialx\\__init__.py', reloading
+2025-06-01 03:59:12,062 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\matplotlib_inline\\__init__.py', reloading
+2025-06-01 03:59:12,062 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\matplotlib_inline\\__init__.py', reloading
+2025-06-01 03:59:12,063 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\matplotlib_scalebar\\__init__.py', reloading
+2025-06-01 03:59:12,063 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\matplotlib_scalebar\\__init__.py', reloading
+2025-06-01 03:59:12,079 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\paginate\\__init__.py', reloading
+2025-06-01 03:59:12,079 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\paginate\\__init__.py', reloading
+2025-06-01 03:59:12,079 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\paginate\\__init__.py', reloading
+2025-06-01 03:59:12,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\pooch\\__init__.py', reloading
+2025-06-01 03:59:12,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\pooch\\__init__.py', reloading
+2025-06-01 03:59:12,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\pooch\\__init__.py', reloading
+2025-06-01 03:59:12,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\pooch\\__init__.py', reloading
+2025-06-01 03:59:12,088 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\conftest.py', reloading
+2025-06-01 03:59:12,088 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\conftest.py', reloading
+2025-06-01 03:59:12,088 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\conftest.py', reloading
+2025-06-01 03:59:12,089 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\misc\\__init__.py', reloading
+2025-06-01 03:59:12,089 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\misc\\__init__.py', reloading
+2025-06-01 03:59:12,089 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\misc\\__init__.py', reloading
+2025-06-01 03:59:12,089 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\misc\\__init__.py', reloading
+2025-06-01 03:59:12,090 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\version.py', reloading
+2025-06-01 03:59:12,090 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\version.py', reloading
+2025-06-01 03:59:12,090 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\scipy\\version.py', reloading
+2025-06-01 03:59:12,091 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\tzdata\\__init__.py', reloading
+2025-06-01 03:59:12,091 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\tzdata\\__init__.py', reloading
+2025-06-01 03:59:12,091 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\tzdata\\__init__.py', reloading
+2025-06-01 03:59:12,092 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\xyzservices\\__init__.py', reloading
+2025-06-01 03:59:12,092 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\xyzservices\\__init__.py', reloading
+2025-06-01 03:59:12,092 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\xyzservices\\__init__.py', reloading
+2025-06-01 03:59:12,108 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\pythonwin\\pywin\\__init__.py', reloading
+2025-06-01 03:59:12,108 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\pythonwin\\pywin\\__init__.py', reloading
+2025-06-01 03:59:14,307 - WARNING -  * Debugger is active!
+2025-06-01 03:59:14,315 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:14,435 - WARNING -  * Debugger is active!
+2025-06-01 03:59:14,444 - WARNING -  * Debugger is active!
+2025-06-01 03:59:14,447 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:14,452 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:14,519 - WARNING -  * Debugger is active!
+2025-06-01 03:59:14,527 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:20,002 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,002 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,002 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,003 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,003 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,003 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,003 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,004 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\tasks.py', reloading
+2025-06-01 03:59:20,004 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,004 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,004 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,005 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,005 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,005 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,006 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\proactor_events.py', reloading
+2025-06-01 03:59:20,006 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,006 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,009 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_utils.py', reloading
+2025-06-01 03:59:20,019 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:20,019 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:20,019 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:20,022 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:20,022 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:20,022 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\windows_events.py', reloading
+2025-06-01 03:59:20,023 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,023 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,024 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,024 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,024 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,025 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,025 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,026 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,026 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,026 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,026 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\coroutines.py', reloading
+2025-06-01 03:59:20,028 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,028 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,029 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,029 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,029 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_utils.py', reloading
+2025-06-01 03:59:20,030 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,030 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,031 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,031 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,032 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\queues.py', reloading
+2025-06-01 03:59:20,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,033 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,034 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,035 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,036 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,036 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\sslproto.py', reloading
+2025-06-01 03:59:20,037 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,037 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,037 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,037 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,038 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,038 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,039 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,039 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selectors.py', reloading
+2025-06-01 03:59:20,039 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,039 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,040 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,040 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,041 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,041 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,041 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\futures.py', reloading
+2025-06-01 03:59:20,043 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,043 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,043 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,043 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,044 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,044 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,044 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,045 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\subprocess.py', reloading
+2025-06-01 03:59:20,045 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\constants.py', reloading
+2025-06-01 03:59:20,046 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\constants.py', reloading
+2025-06-01 03:59:20,046 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\constants.py', reloading
+2025-06-01 03:59:20,046 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\constants.py', reloading
+2025-06-01 03:59:20,047 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\constants.py', reloading
+2025-06-01 03:59:20,047 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\constants.py', reloading
+2025-06-01 03:59:20,048 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\unix_events.py', reloading
+2025-06-01 03:59:20,048 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\unix_events.py', reloading
+2025-06-01 03:59:20,050 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\unix_events.py', reloading
+2025-06-01 03:59:20,050 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\unix_events.py', reloading
+2025-06-01 03:59:20,050 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\unix_events.py', reloading
+2025-06-01 03:59:20,051 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\locks.py', reloading
+2025-06-01 03:59:20,051 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\locks.py', reloading
+2025-06-01 03:59:20,051 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\locks.py', reloading
+2025-06-01 03:59:20,052 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\locks.py', reloading
+2025-06-01 03:59:20,052 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\locks.py', reloading
+2025-06-01 03:59:20,052 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\locks.py', reloading
+2025-06-01 03:59:20,054 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,054 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,054 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,055 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,055 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,056 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,056 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,056 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\protocols.py', reloading
+2025-06-01 03:59:20,057 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,058 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,058 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,058 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,059 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,059 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,059 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\test_support.py', reloading
+2025-06-01 03:59:20,060 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,060 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,060 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,060 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,061 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,061 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,061 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,062 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,062 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,062 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\__init__.py', reloading
+2025-06-01 03:59:20,063 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,063 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,063 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,064 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,064 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,065 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,065 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\log.py', reloading
+2025-06-01 03:59:20,065 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,066 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,066 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,066 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,067 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,067 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,067 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,067 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,067 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,068 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,068 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,068 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\streams.py', reloading
+2025-06-01 03:59:20,069 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,069 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,069 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,069 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,070 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,070 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,070 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,071 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,071 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,071 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,071 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_events.py', reloading
+2025-06-01 03:59:20,072 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,072 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,072 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,072 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,073 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,073 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,073 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,073 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\events.py', reloading
+2025-06-01 03:59:20,074 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,075 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,075 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,075 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,076 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,076 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,076 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\base_subprocess.py', reloading
+2025-06-01 03:59:20,077 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,077 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,077 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,078 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,078 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,078 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,078 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\selector_events.py', reloading
+2025-06-01 03:59:20,079 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,081 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,081 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,081 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,081 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\asyncio\\transports.py', reloading
+2025-06-01 03:59:20,238 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\futures\\__init__.py', reloading
+2025-06-01 03:59:20,239 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\futures\\__init__.py', reloading
+2025-06-01 03:59:22,412 - WARNING -  * Debugger is active!
+2025-06-01 03:59:22,421 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:22,584 - WARNING -  * Debugger is active!
+2025-06-01 03:59:22,593 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:22,595 - WARNING -  * Debugger is active!
+2025-06-01 03:59:22,597 - WARNING -  * Debugger is active!
+2025-06-01 03:59:22,604 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:22,606 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:48,481 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-06-01 03:59:48,481 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-06-01 03:59:48,481 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-06-01 03:59:48,482 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-06-01 03:59:50,179 - WARNING -  * Debugger is active!
+2025-06-01 03:59:50,187 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:50,369 - WARNING -  * Debugger is active!
+2025-06-01 03:59:50,378 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:50,733 - WARNING -  * Debugger is active!
+2025-06-01 03:59:50,741 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 03:59:50,741 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:00:37,342 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\traceback.py', reloading
+2025-06-01 04:00:37,342 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\traceback.py', reloading
+2025-06-01 04:00:37,343 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\traceback.py', reloading
+2025-06-01 04:00:39,879 - WARNING -  * Debugger is active!
+2025-06-01 04:00:39,886 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:00:39,913 - WARNING -  * Debugger is active!
+2025-06-01 04:00:39,921 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:00:39,944 - WARNING -  * Debugger is active!
+2025-06-01 04:00:39,952 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:00:40,002 - WARNING -  * Debugger is active!
+2025-06-01 04:00:40,010 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:01:06,561 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,561 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,561 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,561 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,561 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,562 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,562 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,563 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,563 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:06,564 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:01:08,861 - WARNING -  * Debugger is active!
+2025-06-01 04:01:08,872 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:01:09,036 - WARNING -  * Debugger is active!
+2025-06-01 04:01:09,045 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:01:09,169 - WARNING -  * Debugger is active!
+2025-06-01 04:01:09,181 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:01:09,194 - WARNING -  * Debugger is active!
+2025-06-01 04:01:09,201 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:01:31,116 - INFO - 127.0.0.1 - - [01/Jun/2025 04:01:31] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:01:31,380 - INFO - 127.0.0.1 - - [01/Jun/2025 04:01:31] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:07:02,633 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:02,634 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:02,634 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:02,635 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:02,635 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:02,635 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:02,636 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:07:05,117 - WARNING -  * Debugger is active!
+2025-06-01 04:07:05,127 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:07:05,178 - WARNING -  * Debugger is active!
+2025-06-01 04:07:05,187 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:07:05,190 - WARNING -  * Debugger is active!
+2025-06-01 04:07:05,200 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:07:05,413 - WARNING -  * Debugger is active!
+2025-06-01 04:07:05,422 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:07:12,550 - INFO - 127.0.0.1 - - [01/Jun/2025 04:07:12] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:07:12,802 - INFO - 127.0.0.1 - - [01/Jun/2025 04:07:12] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:08:37,802 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 04:08:37,802 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 04:08:37,802 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 04:08:37,802 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 04:08:39,565 - WARNING -  * Debugger is active!
+2025-06-01 04:08:39,576 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:39,662 - WARNING -  * Debugger is active!
+2025-06-01 04:08:39,673 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:39,765 - WARNING -  * Debugger is active!
+2025-06-01 04:08:39,773 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:40,568 - WARNING -  * Debugger is active!
+2025-06-01 04:08:40,575 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:49,404 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,404 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,405 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,414 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,415 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,415 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,416 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,416 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:49,417 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:08:51,951 - WARNING -  * Debugger is active!
+2025-06-01 04:08:51,961 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:51,999 - WARNING -  * Debugger is active!
+2025-06-01 04:08:52,007 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:52,041 - WARNING -  * Debugger is active!
+2025-06-01 04:08:52,049 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:08:52,319 - WARNING -  * Debugger is active!
+2025-06-01 04:08:52,326 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:10:30,431 - INFO - 127.0.0.1 - - [01/Jun/2025 04:10:30] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:10:30,682 - INFO - 127.0.0.1 - - [01/Jun/2025 04:10:30] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:10:48,693 - INFO - 127.0.0.1 - - [01/Jun/2025 04:10:48] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:10:48,957 - INFO - 127.0.0.1 - - [01/Jun/2025 04:10:48] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:12:22,807 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-01 04:12:22,807 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 04:12:22,837 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 04:12:24,251 - WARNING -  * Debugger is active!
+2025-06-01 04:12:24,259 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:15:02,318 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:15:02,318 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:15:02,320 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:15:02,320 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:15:02,320 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:15:04,047 - WARNING -  * Debugger is active!
+2025-06-01 04:15:04,055 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:15:04,359 - WARNING -  * Debugger is active!
+2025-06-01 04:15:04,367 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:15:04,514 - WARNING -  * Debugger is active!
+2025-06-01 04:15:04,522 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:15:04,739 - WARNING -  * Debugger is active!
+2025-06-01 04:15:04,746 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:19,235 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:19,247 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:21,507 - WARNING -  * Debugger is active!
+2025-06-01 04:17:21,517 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:21,551 - WARNING -  * Debugger is active!
+2025-06-01 04:17:21,563 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:21,721 - WARNING -  * Debugger is active!
+2025-06-01 04:17:21,729 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:21,780 - WARNING -  * Debugger is active!
+2025-06-01 04:17:21,788 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:32,148 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,148 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,149 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,149 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,149 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,149 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,149 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,150 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,150 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,150 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,151 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,151 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,151 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:32,152 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:17:34,062 - WARNING -  * Debugger is active!
+2025-06-01 04:17:34,073 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:34,167 - WARNING -  * Debugger is active!
+2025-06-01 04:17:34,176 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:34,184 - WARNING -  * Debugger is active!
+2025-06-01 04:17:34,195 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:17:34,981 - WARNING -  * Debugger is active!
+2025-06-01 04:17:34,987 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:19:23,516 - INFO - 127.0.0.1 - - [01/Jun/2025 04:19:23] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:19:23,771 - INFO - 127.0.0.1 - - [01/Jun/2025 04:19:23] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:19:30,248 - INFO - 127.0.0.1 - - [01/Jun/2025 04:19:30] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:19:30,558 - INFO - 127.0.0.1 - - [01/Jun/2025 04:19:30] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:26:06,096 - INFO - 127.0.0.1 - - [01/Jun/2025 04:26:06] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:26:06,360 - INFO - 127.0.0.1 - - [01/Jun/2025 04:26:06] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:27:09,931 - INFO - 127.0.0.1 - - [01/Jun/2025 04:27:09] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:27:10,196 - INFO - 127.0.0.1 - - [01/Jun/2025 04:27:10] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:28:29,316 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:28:29,328 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:28:29,328 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:28:29,329 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:28:29,329 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:28:29,329 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:28:31,429 - WARNING -  * Debugger is active!
+2025-06-01 04:28:31,439 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:28:32,086 - WARNING -  * Debugger is active!
+2025-06-01 04:28:32,089 - WARNING -  * Debugger is active!
+2025-06-01 04:28:32,098 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:28:32,102 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:28:42,101 - WARNING -  * Debugger is active!
+2025-06-01 04:28:42,108 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:30:40,254 - INFO - 127.0.0.1 - - [01/Jun/2025 04:30:40] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:30:40,521 - INFO - 127.0.0.1 - - [01/Jun/2025 04:30:40] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:33:26,674 - INFO - 127.0.0.1 - - [01/Jun/2025 04:33:26] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:34:37,676 - INFO - 127.0.0.1 - - [01/Jun/2025 04:34:37] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:35:04,387 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:04,387 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:04,387 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:04,387 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:04,391 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:04,391 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:04,391 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:35:06,346 - WARNING -  * Debugger is active!
+2025-06-01 04:35:06,359 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:06,429 - WARNING -  * Debugger is active!
+2025-06-01 04:35:06,438 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:06,469 - WARNING -  * Debugger is active!
+2025-06-01 04:35:06,477 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:06,664 - WARNING -  * Debugger is active!
+2025-06-01 04:35:06,672 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:25,804 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 04:35:25,804 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 04:35:25,805 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 04:35:27,931 - WARNING -  * Debugger is active!
+2025-06-01 04:35:27,943 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:28,047 - WARNING -  * Debugger is active!
+2025-06-01 04:35:28,058 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:28,213 - WARNING -  * Debugger is active!
+2025-06-01 04:35:28,220 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:35:28,438 - WARNING -  * Debugger is active!
+2025-06-01 04:35:28,445 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:36:42,549 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,549 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,549 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,550 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,550 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,550 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,550 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,550 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,551 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:42,551 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:36:44,506 - WARNING -  * Debugger is active!
+2025-06-01 04:36:44,516 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:36:44,663 - WARNING -  * Debugger is active!
+2025-06-01 04:36:44,672 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:36:44,752 - WARNING -  * Debugger is active!
+2025-06-01 04:36:44,759 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:36:44,795 - WARNING -  * Debugger is active!
+2025-06-01 04:36:44,802 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:36:55,061 - INFO - 127.0.0.1 - - [01/Jun/2025 04:36:55] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:36:55,328 - INFO - 127.0.0.1 - - [01/Jun/2025 04:36:55] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:37:03,018 - INFO - 127.0.0.1 - - [01/Jun/2025 04:37:03] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:37:03,328 - INFO - 127.0.0.1 - - [01/Jun/2025 04:37:03] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:37:08,179 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\logging\\__init__.py', reloading
+2025-06-01 04:37:08,179 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\logging\\__init__.py', reloading
+2025-06-01 04:37:08,179 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\logging\\__init__.py', reloading
+2025-06-01 04:37:10,512 - WARNING -  * Debugger is active!
+2025-06-01 04:37:10,521 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:37:10,544 - WARNING -  * Debugger is active!
+2025-06-01 04:37:10,551 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:37:10,733 - WARNING -  * Debugger is active!
+2025-06-01 04:37:10,740 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:37:10,783 - WARNING -  * Debugger is active!
+2025-06-01 04:37:10,793 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:37:30,271 - INFO - 127.0.0.1 - - [01/Jun/2025 04:37:30] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:37:30,537 - INFO - 127.0.0.1 - - [01/Jun/2025 04:37:30] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:39:00,252 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:39:00,252 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:39:00,254 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:39:00,254 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:39:00,254 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:39:02,376 - WARNING -  * Debugger is active!
+2025-06-01 04:39:02,388 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:39:02,566 - WARNING -  * Debugger is active!
+2025-06-01 04:39:02,576 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:39:02,801 - WARNING -  * Debugger is active!
+2025-06-01 04:39:02,808 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:39:02,973 - WARNING -  * Debugger is active!
+2025-06-01 04:39:02,981 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:28,371 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:28,372 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:28,372 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:28,372 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:28,373 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:28,373 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:28,373 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:30,154 - WARNING -  * Debugger is active!
+2025-06-01 04:40:30,162 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:30,619 - WARNING -  * Debugger is active!
+2025-06-01 04:40:30,630 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:30,753 - WARNING -  * Debugger is active!
+2025-06-01 04:40:30,763 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:31,147 - WARNING -  * Debugger is active!
+2025-06-01 04:40:31,155 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:51,792 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,792 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,793 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,793 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,793 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,794 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,794 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,794 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,794 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:51,795 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:40:53,740 - WARNING -  * Debugger is active!
+2025-06-01 04:40:53,748 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:53,932 - WARNING -  * Debugger is active!
+2025-06-01 04:40:53,943 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:54,477 - WARNING -  * Debugger is active!
+2025-06-01 04:40:54,484 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:40:54,532 - WARNING -  * Debugger is active!
+2025-06-01 04:40:54,544 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:41:05,053 - INFO - 127.0.0.1 - - [01/Jun/2025 04:41:05] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 04:41:05,319 - INFO - 127.0.0.1 - - [01/Jun/2025 04:41:05] "POST /search HTTP/1.1" 200 -
+2025-06-01 04:49:01,342 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:01,345 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:01,345 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:01,345 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:01,346 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:01,346 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:01,347 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 04:49:03,463 - WARNING -  * Debugger is active!
+2025-06-01 04:49:03,473 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:49:04,070 - WARNING -  * Debugger is active!
+2025-06-01 04:49:04,070 - WARNING -  * Debugger is active!
+2025-06-01 04:49:04,077 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:49:04,078 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 04:49:04,120 - WARNING -  * Debugger is active!
+2025-06-01 04:49:04,129 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:35:25,837 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 05:35:27,899 - WARNING -  * Debugger is active!
+2025-06-01 05:35:27,900 - WARNING -  * Debugger is active!
+2025-06-01 05:35:27,908 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:35:27,908 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:35:28,154 - WARNING -  * Debugger is active!
+2025-06-01 05:35:28,161 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:35:28,253 - WARNING -  * Debugger is active!
+2025-06-01 05:35:28,260 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:55:25,852 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 05:55:25,853 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 05:55:25,853 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 05:55:27,507 - WARNING -  * Debugger is active!
+2025-06-01 05:55:27,514 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:55:28,073 - WARNING -  * Debugger is active!
+2025-06-01 05:55:28,080 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:55:28,138 - WARNING -  * Debugger is active!
+2025-06-01 05:55:28,145 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 05:55:28,199 - WARNING -  * Debugger is active!
+2025-06-01 05:55:28,207 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:35:25,882 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 06:35:28,187 - WARNING -  * Debugger is active!
+2025-06-01 06:35:28,195 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:35:28,196 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:35:28,547 - WARNING -  * Debugger is active!
+2025-06-01 06:35:28,554 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:35:28,579 - WARNING -  * Debugger is active!
+2025-06-01 06:35:28,586 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:55:25,882 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 06:55:25,883 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 06:55:27,587 - WARNING -  * Debugger is active!
+2025-06-01 06:55:27,599 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:55:28,230 - WARNING -  * Debugger is active!
+2025-06-01 06:55:28,238 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:55:28,307 - WARNING -  * Debugger is active!
+2025-06-01 06:55:28,308 - WARNING -  * Debugger is active!
+2025-06-01 06:55:28,315 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 06:55:28,315 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:35:25,993 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 07:35:27,986 - WARNING -  * Debugger is active!
+2025-06-01 07:35:27,986 - WARNING -  * Debugger is active!
+2025-06-01 07:35:27,986 - WARNING -  * Debugger is active!
+2025-06-01 07:35:27,995 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:35:27,995 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:35:27,995 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:35:28,471 - WARNING -  * Debugger is active!
+2025-06-01 07:35:28,478 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:55:25,938 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 07:55:25,938 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 07:55:25,939 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 07:55:27,821 - WARNING -  * Debugger is active!
+2025-06-01 07:55:27,830 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:55:27,950 - WARNING -  * Debugger is active!
+2025-06-01 07:55:27,958 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:55:28,436 - WARNING -  * Debugger is active!
+2025-06-01 07:55:28,443 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 07:55:28,593 - WARNING -  * Debugger is active!
+2025-06-01 07:55:28,600 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:45:25,991 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 08:45:25,993 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 08:45:25,994 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 08:45:25,994 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 08:45:28,162 - WARNING -  * Debugger is active!
+2025-06-01 08:45:28,162 - WARNING -  * Debugger is active!
+2025-06-01 08:45:28,171 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:45:28,466 - WARNING -  * Debugger is active!
+2025-06-01 08:45:28,470 - WARNING -  * Debugger is active!
+2025-06-01 08:45:28,473 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:45:28,476 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:55:25,988 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 08:55:25,989 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 08:55:25,989 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 08:55:27,889 - WARNING -  * Debugger is active!
+2025-06-01 08:55:27,898 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:55:28,197 - WARNING -  * Debugger is active!
+2025-06-01 08:55:28,204 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:55:28,212 - WARNING -  * Debugger is active!
+2025-06-01 08:55:28,219 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 08:55:28,255 - WARNING -  * Debugger is active!
+2025-06-01 08:55:28,262 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:45:26,016 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 09:45:26,018 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 09:45:26,018 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 09:45:26,020 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 09:45:28,366 - WARNING -  * Debugger is active!
+2025-06-01 09:45:28,366 - WARNING -  * Debugger is active!
+2025-06-01 09:45:28,374 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:45:28,374 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:45:28,677 - WARNING -  * Debugger is active!
+2025-06-01 09:45:28,685 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:55:26,026 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 09:55:26,026 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 09:55:27,888 - WARNING -  * Debugger is active!
+2025-06-01 09:55:27,895 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:55:28,349 - WARNING -  * Debugger is active!
+2025-06-01 09:55:28,357 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:55:28,538 - WARNING -  * Debugger is active!
+2025-06-01 09:55:28,545 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 09:55:28,690 - WARNING -  * Debugger is active!
+2025-06-01 09:55:28,697 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:45:26,080 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 10:45:26,082 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 10:45:26,082 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 10:45:26,082 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 10:45:28,334 - WARNING -  * Debugger is active!
+2025-06-01 10:45:28,342 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:45:28,343 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:45:28,343 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:45:28,632 - WARNING -  * Debugger is active!
+2025-06-01 10:45:28,639 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:55:26,073 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 10:55:26,074 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 10:55:26,074 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 10:55:27,789 - WARNING -  * Debugger is active!
+2025-06-01 10:55:27,790 - WARNING -  * Debugger is active!
+2025-06-01 10:55:27,797 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:55:27,798 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:55:27,847 - WARNING -  * Debugger is active!
+2025-06-01 10:55:27,854 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 10:55:28,595 - WARNING -  * Debugger is active!
+2025-06-01 10:55:28,602 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:45:26,129 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 11:45:26,129 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 11:45:26,129 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 11:45:28,042 - WARNING -  * Debugger is active!
+2025-06-01 11:45:28,042 - WARNING -  * Debugger is active!
+2025-06-01 11:45:28,051 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:45:28,051 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:45:28,294 - WARNING -  * Debugger is active!
+2025-06-01 11:45:28,301 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:45:28,693 - WARNING -  * Debugger is active!
+2025-06-01 11:45:28,700 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:55:26,390 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 11:55:26,390 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 11:55:26,390 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 11:55:26,391 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 11:55:28,052 - WARNING -  * Debugger is active!
+2025-06-01 11:55:28,053 - WARNING -  * Debugger is active!
+2025-06-01 11:55:28,059 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:55:28,060 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:55:28,557 - WARNING -  * Debugger is active!
+2025-06-01 11:55:28,565 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 11:55:28,895 - WARNING -  * Debugger is active!
+2025-06-01 11:55:28,902 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:17:45,836 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:17:45,839 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:17:45,839 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:17:45,839 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:17:45,840 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:17:45,840 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:17:46,341 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\traceback.py', reloading
+2025-06-01 12:17:46,341 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\traceback.py', reloading
+2025-06-01 12:17:46,341 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\traceback.py', reloading
+2025-06-01 12:17:48,067 - WARNING -  * Debugger is active!
+2025-06-01 12:17:48,076 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:17:48,316 - WARNING -  * Debugger is active!
+2025-06-01 12:17:48,326 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:17:48,433 - WARNING -  * Debugger is active!
+2025-06-01 12:17:48,441 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:17:48,597 - WARNING -  * Debugger is active!
+2025-06-01 12:17:48,608 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:19:06,959 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:19:06,960 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:19:06,960 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:19:06,960 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:19:06,961 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:19:09,146 - WARNING -  * Debugger is active!
+2025-06-01 12:19:09,153 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:19:09,194 - WARNING -  * Debugger is active!
+2025-06-01 12:19:09,204 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:19:09,402 - WARNING -  * Debugger is active!
+2025-06-01 12:19:09,408 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:19:09,553 - WARNING -  * Debugger is active!
+2025-06-01 12:19:09,560 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:23:03,322 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,323 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,323 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,323 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,323 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,324 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,324 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,324 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,325 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,325 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:03,326 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:05,035 - WARNING -  * Debugger is active!
+2025-06-01 12:23:05,036 - WARNING -  * Debugger is active!
+2025-06-01 12:23:05,045 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:23:05,045 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:23:05,119 - WARNING -  * Debugger is active!
+2025-06-01 12:23:05,131 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:23:05,158 - WARNING -  * Debugger is active!
+2025-06-01 12:23:05,167 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:23:59,356 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:59,357 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:59,357 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:59,358 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:59,358 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:23:59,358 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:24:01,326 - WARNING -  * Debugger is active!
+2025-06-01 12:24:01,326 - WARNING -  * Debugger is active!
+2025-06-01 12:24:01,334 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:24:01,334 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:24:01,671 - WARNING -  * Debugger is active!
+2025-06-01 12:24:01,678 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:24:02,065 - WARNING -  * Debugger is active!
+2025-06-01 12:24:02,072 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:25:29,007 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:25:29,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:25:29,019 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:25:29,019 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:25:29,019 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:25:31,001 - WARNING -  * Debugger is active!
+2025-06-01 12:25:31,010 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:25:31,306 - WARNING -  * Debugger is active!
+2025-06-01 12:25:31,313 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:25:31,523 - WARNING -  * Debugger is active!
+2025-06-01 12:25:31,530 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:29:26,228 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,229 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,229 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,238 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,238 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,239 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,239 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:26,239 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:29:28,169 - WARNING -  * Debugger is active!
+2025-06-01 12:29:28,178 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:29:28,685 - WARNING -  * Debugger is active!
+2025-06-01 12:29:28,693 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:29:28,778 - WARNING -  * Debugger is active!
+2025-06-01 12:29:28,785 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:30:03,889 - INFO - 127.0.0.1 - - [01/Jun/2025 12:30:03] "GET / HTTP/1.1" 200 -
+2025-06-01 12:37:45,435 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-01 12:37:45,436 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 12:37:45,460 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:37:46,836 - WARNING -  * Debugger is active!
+2025-06-01 12:37:46,843 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:39:19,254 - INFO - 127.0.0.1 - - [01/Jun/2025 12:39:19] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 12:39:19,519 - INFO - 127.0.0.1 - - [01/Jun/2025 12:39:19] "POST /search HTTP/1.1" 200 -
+2025-06-01 12:39:33,466 - INFO - 127.0.0.1 - - [01/Jun/2025 12:39:33] "GET / HTTP/1.1" 200 -
+2025-06-01 12:42:40,424 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:40,424 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:40,425 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:40,428 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:40,428 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:40,431 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:40,431 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:42:41,664 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:42:42,645 - WARNING -  * Debugger is active!
+2025-06-01 12:42:42,654 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:42:42,955 - WARNING -  * Debugger is active!
+2025-06-01 12:42:42,963 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:42:43,226 - WARNING -  * Debugger is active!
+2025-06-01 12:42:43,234 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:43:10,259 - INFO - 127.0.0.1 - - [01/Jun/2025 12:43:10] "OPTIONS /search HTTP/1.1" 200 -
+2025-06-01 12:43:10,524 - INFO - 127.0.0.1 - - [01/Jun/2025 12:43:10] "POST /search HTTP/1.1" 200 -
+2025-06-01 12:43:17,029 - INFO - 127.0.0.1 - - [01/Jun/2025 12:43:17] "GET / HTTP/1.1" 200 -
+2025-06-01 12:45:26,195 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:45:27,502 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:45:29,068 - WARNING -  * Debugger is active!
+2025-06-01 12:45:29,079 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:45:29,174 - WARNING -  * Debugger is active!
+2025-06-01 12:45:29,186 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:45:29,406 - WARNING -  * Debugger is active!
+2025-06-01 12:45:29,415 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:48:37,542 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:48:37,542 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:48:37,543 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:48:37,544 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:48:37,544 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:48:37,544 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 12:48:37,963 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:48:39,679 - WARNING -  * Debugger is active!
+2025-06-01 12:48:39,690 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:48:39,823 - WARNING -  * Debugger is active!
+2025-06-01 12:48:39,846 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:48:40,240 - WARNING -  * Debugger is active!
+2025-06-01 12:48:40,247 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:48:46,974 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 12:48:46,974 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 12:48:46,975 - INFO -  * Detected change in 'C:\\Program Files\\Python313\\Lib\\os.py', reloading
+2025-06-01 12:48:47,465 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:48:48,931 - WARNING -  * Debugger is active!
+2025-06-01 12:48:48,941 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:48:49,144 - WARNING -  * Debugger is active!
+2025-06-01 12:48:49,154 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:48:49,485 - WARNING -  * Debugger is active!
+2025-06-01 12:48:49,494 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:49:12,492 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\helpers.py', reloading
+2025-06-01 12:49:12,492 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\helpers.py', reloading
+2025-06-01 12:49:12,492 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\helpers.py', reloading
+2025-06-01 12:49:13,356 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:49:14,541 - WARNING -  * Debugger is active!
+2025-06-01 12:49:14,550 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:49:14,831 - WARNING -  * Debugger is active!
+2025-06-01 12:49:14,839 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:49:15,033 - WARNING -  * Debugger is active!
+2025-06-01 12:49:15,041 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:49:29,006 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,006 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,007 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,008 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:49:29,886 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:49:31,988 - WARNING -  * Debugger is active!
+2025-06-01 12:49:31,996 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:49:32,256 - WARNING -  * Debugger is active!
+2025-06-01 12:49:32,264 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:49:32,420 - WARNING -  * Debugger is active!
+2025-06-01 12:49:32,427 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:52:34,427 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+2025-06-01 12:52:34,427 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 12:52:34,446 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 12:52:36,596 - WARNING -  * Debugger is active!
+2025-06-01 12:52:36,603 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 12:52:50,872 - INFO - 127.0.0.1 - - [01/Jun/2025 12:52:50] "GET / HTTP/1.1" 200 -
+2025-06-01 12:52:51,237 - INFO - 127.0.0.1 - - [01/Jun/2025 12:52:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-01 12:52:53,460 - INFO - 127.0.0.1 - - [01/Jun/2025 12:52:53] "GET / HTTP/1.1" 200 -
+2025-06-01 12:54:18,661 - INFO - 127.0.0.1 - - [01/Jun/2025 12:54:18] "GET / HTTP/1.1" 200 -
+2025-06-01 12:58:39,969 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:58:39,970 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\app.py', reloading
+2025-06-01 12:58:39,970 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 12:58:39,971 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 12:58:39,971 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 12:58:39,972 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 12:58:40,245 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 15:46:41,153 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+2025-06-01 15:46:41,153 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 15:46:41,174 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 15:46:44,125 - WARNING -  * Debugger is active!
+2025-06-01 15:46:44,132 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 15:47:43,600 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 15:47:43,601 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\Final_project_web_crawel.py', reloading
+2025-06-01 15:47:43,918 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 15:47:47,192 - WARNING -  * Debugger is active!
+2025-06-01 15:47:47,201 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 15:47:48,126 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\flask\\globals.py', reloading
+2025-06-01 15:47:48,151 - INFO -  * Detected change in 'C:\\Users\\Mao-k\\AppData\\Roaming\\Python\\Python313\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-06-01 15:47:48,750 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 15:47:51,746 - WARNING -  * Debugger is active!
+2025-06-01 15:47:51,753 - INFO -  * Debugger PIN: 631-208-364
+2025-06-01 15:47:55,858 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 15:47:55,861 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 15:47:55,863 - INFO -  * Detected change in 'c:\\Users\\Mao-k\\ºô­¶ª¦ÂÎ\\Final_Project_Web_Crawler_2025_Spring\\Crawler_code\\app.py', reloading
+2025-06-01 15:47:56,402 - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-01 15:47:59,687 - WARNING -  * Debugger is active!
+2025-06-01 15:47:59,694 - INFO -  * Debugger PIN: 631-208-364
